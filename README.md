@@ -1,7 +1,7 @@
 ansible-rcron
 =============
 
-Configure rcron, a high availability cron scheduler.
+Configure rcron, a cron scheduler with redundancy and failover.
 
 Requirements
 ------------
