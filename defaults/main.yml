@@ -1,0 +1,6 @@
+---
+rcron_default_state: active
+rcron_default_name: rcron
+
+rcron_state: "{{ rcron_default_state }}"
+rcron_cluster_name: "{{ rcron_default_name }}"

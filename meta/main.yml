@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Tristan Le Guern
+  description: 
+  company: Deveryware
+  license: ICS
+  min_ansible_version: 1.9
+  galaxy_tags:
+  - rcron
+  - crontab
+  - cron
+dependencies: []
