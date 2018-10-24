@@ -1,11 +1,10 @@
 galaxy_info:
   author: Tristan Le Guern
-  description: 
+  description: Cron jobs redundancy and failover
   company: Deveryware
   license: ICS
   min_ansible_version: 1.9
   galaxy_tags:
-  - rcron
-  - crontab
-  - cron
-dependencies: []
+    - rcron
+    - crontab
+    - cron
